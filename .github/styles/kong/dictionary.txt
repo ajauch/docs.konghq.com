@@ -68,6 +68,7 @@ instrumentations
 io
 iptables
 Istio
+jetstack
 jq
 json
 JsonPath
